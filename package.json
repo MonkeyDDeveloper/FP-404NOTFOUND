@@ -1,0 +1,27 @@
+{
+  "name": "404notfound",
+  "version": "1.0.0",
+  "description": "404 not found for portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonkeyDDeveloper/FP-404NOTFOUND.git"
+  },
+  "keywords": [
+    "portfolio",
+    "devchallenges"
+  ],
+  "author": "Javier Fray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonkeyDDeveloper/FP-404NOTFOUND/issues"
+  },
+  "homepage": "https://github.com/MonkeyDDeveloper/FP-404NOTFOUND#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
